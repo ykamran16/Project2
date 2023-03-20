@@ -7,11 +7,15 @@ body{
     overflow-x: hidden;
 }
 
-#main-navbar {
+nav {
 	background-color: #FFD700;
 	display: flex;
 	font-family: '';
+	justify-content: space-between;
+	align-item: center;
+	padding: 10px;
 	}
+
 
 
 
