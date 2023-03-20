@@ -7,18 +7,18 @@ body{
     overflow-x: hidden;
 }
 
-nav {
+#main-navbar {
 	background-color: #FFD700;
 	display: flex;
-		padding: 10px;
-}
+	font-family: '';
+	}
 
-nav ul {
+#nav-container {
   margin: 0;
   padding: 0;
+  position: relative;
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  
 }
 
 
